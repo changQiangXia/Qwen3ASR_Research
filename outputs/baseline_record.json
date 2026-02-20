@@ -1,0 +1,13 @@
+{
+  "model_id": "Qwen3-ASR-1.7B",
+  "model_path": "checkpoints/qwen/Qwen3-ASR-1___7B",
+  "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "test_completed": true,
+  "sample_result": {
+    "audio": "D:\\pythonProjects\\Qwen3ASR_Research\\data\\test_m4a.wav",
+    "language": "Chinese",
+    "text": "在硬科技之都西安，程序员不仅是数字世界的构建者，也是城市产业升级的核心动力。当芯片遇上代码，他们的薪资究竟处于什么水平？是高歌猛进还是低调务实？本文用数据拆解西安程序员的薪资分布，为你呈现真实的市场图景。",
+    "inference_time": 36.40928792953491,
+    "peak_memory_mb": 4166.0166015625
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "bottleneck_dim": 32,
+    "parameters": 135168,
+    "parameters_mb": 0.515625,
+    "inference_time_ms": 0.379051513671875,
+    "memory_mb": 10.5947265625
+  },
+  {
+    "bottleneck_dim": 64,
+    "parameters": 266240,
+    "parameters_mb": 1.015625,
+    "inference_time_ms": 0.3863552093505859,
+    "memory_mb": 11.0947265625
+  },
+  {
+    "bottleneck_dim": 128,
+    "parameters": 528384,
+    "parameters_mb": 2.015625,
+    "inference_time_ms": 0.3875635147094727,
+    "memory_mb": 12.0947265625
+  },
+  {
+    "bottleneck_dim": 256,
+    "parameters": 1052672,
+    "parameters_mb": 4.015625,
+    "inference_time_ms": 0.3776787185668945,
+    "memory_mb": 14.0947265625
+  }
+]
